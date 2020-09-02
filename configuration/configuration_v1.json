@@ -3,7 +3,8 @@
 		"dbName": "rulesDatabase",
 		"dbVersion": 1,
 		"dbPath": "/database/rulesDatabase.db",
-		"clientMinVersion": 332
+		"clientMinVersion": 332,
+		"dependsOnIconDBVersion": 1
 	},
 	"iconDatabase": {
 		"dbName": "iconDatabase",
