@@ -1,8 +1,14 @@
 {
-	"enableLibDetail": true,
-	"showIcon": true,
-	"showLibName": true,
-	"showLibDescription": true,
-	"showContributor": true,
-	"showRelativeUrl": true
+	"rulesDatabase": {
+		"dbName": "rulesDatabase",
+		"dbVersion": 1,
+		"dbPath": "/database/rulesDatabase.db",
+		"clientMinVersion": 332
+	},
+	"iconDatabase": {
+		"dbName": "iconDatabase",
+		"dbVersion": 1,
+		"dbPath": "/database/iconDatabase.db",
+		"clientMinVersion": 332
+	}
 }
