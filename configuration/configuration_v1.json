@@ -1,15 +1,15 @@
 {
 	"rulesDatabase": {
-		"dbName": "rulesDatabase",
+		"dbName": "rules",
 		"dbVersion": 1,
-		"dbPath": "/database/rulesDatabase.db",
+		"dbPath": "/database/rules.json",
 		"clientMinVersion": 332,
 		"dependsOnIconDBVersion": 1
 	},
-	"iconDatabase": {
-		"dbName": "iconDatabase",
+	"iconsDatabase": {
+		"dbName": "icons",
 		"dbVersion": 1,
-		"dbPath": "/database/iconDatabase.db",
+		"dbPath": "/database/icons.json",
 		"clientMinVersion": 332
 	}
 }
